@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(146, 135, 148);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+div{
+    margin: auto;
+}
+
+.subtitle, .post_title{
+    color: rgb(203, 2203, 228);
+    padding: 10px;
+    
+}
+
+.subtitle{
+    margin: auto;
+    background-color: rgba(131, 83, 1124, 0.479);
+    width: 700px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+a{
+    text-decoration: line-through;
+    color: rgb(203, 203, 228);
+    text-transform: capitalize;
+}
+
+.post_title{
+    font-size: 16;
+    font-style: italic;
+}
+
+.post{
+    background-color: rgb(101, 62, 128);
+    padding: 10px;
+    
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    width: 700px;
+}
+#header1{
+    background-image:url(web_dev.jpg);
+    background-repeat: no-repeat;
+    background-size: 700px 700px;
+    border-radius: 10px;
+    width: 700px;
+    margin: auto;
+}
+.post_content{
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: justify;
+    padding: auto;
+}
+
+.foto_perfil{
+    width: 200px;
+    border-radius: 100%;
+    border-style: dashed;
+    margin: 25px;
+    padding: 25px;
+}
+
+footer{
+    margin: auto;
+    width: 700px;
+    background-color: rgba(131, 83, 124, 0.479);
+    border-radius: 15px;
+    padding: 5px;
+}
+
+ul{
+    list-style-type: circle;
+    padding: 10px;
+}
+.icons{
+    list-style-type: none;
+}
+li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-transform: none;
+    letter-spacing: normal;
+  }
+
+.imgIcon{
+    width: 20px;
+}
